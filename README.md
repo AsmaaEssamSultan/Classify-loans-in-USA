@@ -1,1 +1,1 @@
-# Classify-loans-in-USA
+# Classify loans in USA
